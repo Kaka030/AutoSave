@@ -1,0 +1,9 @@
+C:\Users\87329\source\repos\AutoSave\AutoSave\bin\Debug\net48\AutoSave.dll
+C:\Users\87329\source\repos\AutoSave\AutoSave\bin\Debug\net48\AutoSave.pdb
+C:\Users\87329\source\repos\AutoSave\AutoSave\obj\Debug\net48\AutoSave.csproj.AssemblyReference.cache
+C:\Users\87329\source\repos\AutoSave\AutoSave\obj\Debug\net48\AutoSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\87329\source\repos\AutoSave\AutoSave\obj\Debug\net48\AutoSave.AssemblyInfoInputs.cache
+C:\Users\87329\source\repos\AutoSave\AutoSave\obj\Debug\net48\AutoSave.AssemblyInfo.cs
+C:\Users\87329\source\repos\AutoSave\AutoSave\obj\Debug\net48\AutoSave.csproj.CoreCompileInputs.cache
+C:\Users\87329\source\repos\AutoSave\AutoSave\obj\Debug\net48\AutoSave.dll
+C:\Users\87329\source\repos\AutoSave\AutoSave\obj\Debug\net48\AutoSave.pdb
