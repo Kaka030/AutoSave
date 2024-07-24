@@ -1,20 +1,21 @@
 ﻿using Rocket.API;
-using System.Runtime.Serialization.Formatters;
 
 namespace kaka.AutoSave
 {
     public class AutoSaveConfiguration : IRocketPluginConfiguration
     {
-        public bool Enabled;
-        public int SaveInterval;
-        public string SaveMsg;
-        public string MessageColor;
+        public bool Enabled { get; set; }
+        public int SaveInterval { get; set; }
+        public string SaveMsg { get; set; }
+        public string MessageColor { get; set; }
+
+
         public void LoadDefaults()
         {
-            Enabled = true;
-            SaveInterval = 60;
-            SaveMsg = "服务器保存中...";
             MessageColor = "blue";
+            Enabled = false;
+            SaveInterval = 5;
+            SaveMsg = "服务器保存中...";
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\87329\\source\\repos\\AutoSave\\AutoSave\\AutoSave.csproj": {}
+    "D:\\Kaka\\AutoSave\\AutoSave\\AutoSave.csproj": {}
   },
   "projects": {
-    "C:\\Users\\87329\\source\\repos\\AutoSave\\AutoSave\\AutoSave.csproj": {
+    "D:\\Kaka\\AutoSave\\AutoSave\\AutoSave.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\87329\\source\\repos\\AutoSave\\AutoSave\\AutoSave.csproj",
+        "projectUniqueName": "D:\\Kaka\\AutoSave\\AutoSave\\AutoSave.csproj",
         "projectName": "AutoSave",
-        "projectPath": "C:\\Users\\87329\\source\\repos\\AutoSave\\AutoSave\\AutoSave.csproj",
+        "projectPath": "D:\\Kaka\\AutoSave\\AutoSave\\AutoSave.csproj",
         "packagesPath": "C:\\Users\\87329\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\87329\\source\\repos\\AutoSave\\AutoSave\\obj\\",
+        "outputPath": "D:\\Kaka\\AutoSave\\AutoSave\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\87329\\AppData\\Roaming\\NuGet\\NuGet.Config",
