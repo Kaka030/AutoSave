@@ -1,7 +1,13 @@
-# UnturnedPlugin-AutoSave
-Used Unturned Templates created by Mcrow	
+unturned 服务器自定义保存时间插件
+=
 
-Download Method:
+UnturnedPlugin-AutoSave
+=
+
+Used Unturned Templates created by [Mcrow](https://github.com/RestoreMonarchyPlugins)	
+
+Unturned Templates Download Method:
+-
 
 1.Open terminal or powershell and run :
 dotnet new install RestoreMonarchy.UnturnedTemplates
