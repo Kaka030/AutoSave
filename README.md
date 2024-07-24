@@ -1,8 +1,5 @@
 unturned 服务器自定义保存时间插件
-=
-
-UnturnedPlugin-AutoSave
-=
+-
 
 Used Unturned Templates created by [Mcrow](https://github.com/RestoreMonarchyPlugins)	
 
